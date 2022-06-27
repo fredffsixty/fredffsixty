@@ -6,6 +6,7 @@ Here You'll find the repos for my three classes:
 - Big Data (Master Course in Computer Engineering)
 - Medical Imaging Devices (Master Course in Biomedical Engineering)
 - Web and Mobile Programming (Bachelor course in Computer Engineering)
+- Natural Language Processing (Master Course in Computer Engineering)
 
 <!---
 fredffsixty/fredffsixty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
