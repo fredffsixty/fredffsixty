@@ -5,7 +5,7 @@ Here You'll find the repos of my four classes:
 
 - Big Data Analytics (Master Course in Computer Engineering)
 - Medical Imaging Devices (Master Course in Biomedical Engineering)
-- Foundations of Programming (Bachelor course in Robotics Engineering)
+- Foundations of C Programming (Bachelor course in Robotics Engineering)
 - Natural Language Processing (Master Course in Computer Engineering)
 
 and the ones related to the old classess I teached.
